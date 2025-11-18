@@ -3,7 +3,7 @@ from db.models import Escenario, db
 import pandas as pd
 import io
 from datetime import datetime
-from xhtml2pdf import pisa
+#from xhtml2pdf import pisa
 import math
 from weasyprint import HTML, CSS
 import tempfile
